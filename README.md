@@ -21,3 +21,9 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [State of the Fossil Fuel Internet report 2026 by Green Web Foundation](https://fossilfree.greenweb.org/2026/): This report examines the biggest obstacles to a fossil-free internet. This report focuses on the rise of too many dirty data centres controlled by unaccountable companies. 
 
 
+# Sustainable AI Research Papers
+[From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate by Alexandra Sasha Luccioni, Emma Strubell, Kate Crawford](https://dl.acm.org/doi/full/10.1145/3715275.3732007)
+[Rebound Effects of AI on Sustainability: Economic and Policy Perspectives by Leonard Onyedikachi Oluka, Loveth Omokaro, Emmanuel Uzochukwu Mordi, Dominica Peace Chinedu](https://www.researchgate.net/publication/400025425_Rebound_Effects_of_AI_on_Sustainability_Economic_and_Policy_Perspectives)
+[Artificial Slack - On the Efficiency Rebound Effects of Artificial Intelligence in Organizations by Pascal König](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6058995)
+
+
