@@ -2,6 +2,17 @@
 
 The responsible AI directory is a an easy-to-use resource that all developers can use to adopt responsible and sustainable AI practices. This list aims highlight all the ethical and green AI research papers, books, practices, libraries and tools developed by individuals or organisations across the World
 
+
+# Books that Talk About the Current Reality of Tech and AI
+- [Empire of AI Dreams and Nightmares in Sam Altman's OpenAI by Karen Hao](https://www.penguinrandomhouse.com/books/743569/empire-of-ai-by-karen-hao/)
+- [Enshittification: Why Everything Suddenly Got Worse and What to Do About It by Cory Doctorow](https://www.versobooks.com/en-gb/products/3341-enshittification)
+- [The Reverse Centaur's Guide to Life After AI by Cory Doctorow](https://us.macmillan.com/books/9780374621568/thereversecentaursguidetolifeafterai/)
+- [The Nerd Reich: Silicon Valley Fascism and the War on Democracy by Gil Duran](https://www.simonandschuster.com/books/The-Nerd-Reich/Gil-Duran/9781668221402)
+- [World Wide Waste by Gerry McGovern](https://gerrymcgovern.com/books/world-wide-waste/)
+- [Digital Degrowth: Technology in the Age of Survival by Michael Kwet](https://www.plutobooks.com/product/digital-degrowth/)
+- [Insolvent: How to Reorient Computing for Just Sustainability by Christoph Becker](https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just)
+
+
 # Education and Awareness Tools
 
 These resources can be used to spread awareness about the impact of AI on society and environment.
