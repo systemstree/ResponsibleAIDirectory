@@ -11,6 +11,7 @@ The responsible AI directory is a an easy-to-use resource that all developers ca
 - [World Wide Waste by Gerry McGovern](https://gerrymcgovern.com/books/world-wide-waste/)
 - [Digital Degrowth: Technology in the Age of Survival by Michael Kwet](https://www.plutobooks.com/product/digital-degrowth/)
 - [Insolvent: How to Reorient Computing for Just Sustainability by Christoph Becker](https://direct.mit.edu/books/oa-monograph/5594/InsolventHow-to-Reorient-Computing-for-Just)
+- [Why We Fear AI: On the Interpretation of Nightmares by Hagen Blix](https://hagenblix.github.io/wwfai/)
 
 
 # Education and Awareness Tools
