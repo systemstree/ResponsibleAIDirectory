@@ -27,15 +27,15 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Artificial Slack - On the Efficiency Rebound Effects of Artificial Intelligence in Organizations by Pascal König](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6058995)
 
 # AI Ethics
-[AI Ethics: The MIT Press Essential Knowledge series by Mark Coeckelbergh](https://mitpress.mit.edu/9780262538190/ai-ethics/)
-[The Alignment Problem: Machine Learning and Human Values by Brian Christian](https://brianchristian.org/the-alignment-problem/)
-[Weapons of Math Destruction by Cathy O’Neil](https://dn721805.ca.archive.org/0/items/fflch-livro-weapons-of-math-destruction-cathy-240826-220339/(FFLCH)%20LIVRO%20Weapons%20of%20Math%20Destruction%20-%20Cathy%20_240826_220339.pdf)
-[Unmasking AI: My Mission to Protect What Is Human in a World of Machines by James E. Dobson](https://read.dukeupress.edu/critical-ai/article-abstract/doi/10.1215/2834703X-11556092/400177/Unmasking-AI-My-Mission-to-Protect-What-Is-Human?redirectedFrom=fulltext)
-[Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford](https://www.jstor.org/stable/j.ctv1ghv45t)
-[Recommendation on the Ethics of Artificial Intelligence by Unesco](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
-[Artificial Intelligence: Ethics in Practice by Jessica Cussins Newman and Rajvardhan Oak](https://www.usenix.org/publications/login/mar20/newman)
-[Design Justice by Sasha Costanza-Chock](https://direct.mit.edu/books/oa-monograph/4605/Design-JusticeCommunity-Led-Practices-to-Build-the)
-[12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
+- [AI Ethics: The MIT Press Essential Knowledge series by Mark Coeckelbergh](https://mitpress.mit.edu/9780262538190/ai-ethics/)
+- [The Alignment Problem: Machine Learning and Human Values by Brian Christian](https://brianchristian.org/the-alignment-problem/)
+- [Weapons of Math Destruction by Cathy O’Neil](https://dn721805.ca.archive.org/0/items/fflch-livro-weapons-of-math-destruction-cathy-240826-220339/(FFLCH)%20LIVRO%20Weapons%20of%20Math%20Destruction%20-%20Cathy%20_240826_220339.pdf)
+- [Unmasking AI: My Mission to Protect What Is Human in a World of Machines by James E. Dobson](https://read.dukeupress.edu/critical-ai/article-abstract/doi/10.1215/2834703X-11556092/400177/Unmasking-AI-My-Mission-to-Protect-What-Is-Human?redirectedFrom=fulltext)
+- [Atlas of AI: Power, Politics, and the Planetary Costs of Artificial Intelligence by Kate Crawford](https://www.jstor.org/stable/j.ctv1ghv45t)
+- [Recommendation on the Ethics of Artificial Intelligence by Unesco](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
+- [Artificial Intelligence: Ethics in Practice by Jessica Cussins Newman and Rajvardhan Oak](https://www.usenix.org/publications/login/mar20/newman)
+- [Design Justice by Sasha Costanza-Chock](https://direct.mit.edu/books/oa-monograph/4605/Design-JusticeCommunity-Led-Practices-to-Build-the)
+- [12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
 
 
 
