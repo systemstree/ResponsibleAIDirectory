@@ -38,5 +38,9 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Design Justice by Sasha Costanza-Chock](https://direct.mit.edu/books/oa-monograph/4605/Design-JusticeCommunity-Led-Practices-to-Build-the)
 - [12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
 
+AI Ethics in Education
+- [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
+  
+
 
 
