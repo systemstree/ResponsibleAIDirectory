@@ -40,8 +40,12 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
 - [Adverse impacts of revealing the presence of “Artificial Intelligence (AI)” technology in product and service descriptions on purchase intentions: the mediating role of emotional trust and the moderating role of perceived risk by Mesut Cicek, Dogon Gursoy & Lu Lu](https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040)
 
-AI Ethics in Education
+# AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
+
+# Newsletters
+- [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
+- [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
   
 
 
