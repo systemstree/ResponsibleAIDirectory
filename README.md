@@ -1,3 +1,4 @@
+
 # ResponsibleAIDirectory
 
 The responsible AI directory is a an easy-to-use resource that all developers can use to adopt responsible and sustainable AI practices. This list aims highlight all the ethical and green AI research papers, books, practices, libraries and tools developed by individuals or organisations across the World
@@ -37,6 +38,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Artificial Intelligence: Ethics in Practice by Jessica Cussins Newman and Rajvardhan Oak](https://www.usenix.org/publications/login/mar20/newman)
 - [Design Justice by Sasha Costanza-Chock](https://direct.mit.edu/books/oa-monograph/4605/Design-JusticeCommunity-Led-Practices-to-Build-the)
 - [12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
+- [Adverse impacts of revealing the presence of “Artificial Intelligence (AI)” technology in product and service descriptions on purchase intentions: the mediating role of emotional trust and the moderating role of perceived risk by Mesut Cicek, Dogon Gursoy & Lu Lu](https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040)
 
 AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
