@@ -46,6 +46,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 # Newsletters
 - [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
 - [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
+- [Pluralistic: Daily links from Cory Doctorow](https://pluralistic.net/)
   
 
 
