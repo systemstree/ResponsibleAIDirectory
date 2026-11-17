@@ -41,6 +41,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [12 Research Papers Submitted at Global Forum on the Ethics of AI (GFEAI) 2025](https://ircai.org/global-forum-on-the-ethics-of-ai-2025/)
 - [Adverse impacts of revealing the presence of “Artificial Intelligence (AI)” technology in product and service descriptions on purchase intentions: the mediating role of emotional trust and the moderating role of perceived risk by Mesut Cicek, Dogon Gursoy & Lu Lu](https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040)
 - [Recommendation on the Ethics of Artificial Intelligence by UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000380455)
+- [OECD AI Principles](https://www.oecd.org/en/topics/sub-issues/ai-principles.html)
 
 # AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
@@ -52,6 +53,9 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [The Bletchley Declaration](https://bletchleydeclaration.com/)
 
+# AI Risks Examples
+- [Health Disinformation Use Case Highlighting the Urgent Need for Artificial Intelligence VigilanceWeapons of Mass Disinformation by  Bradley D. Menz, BPharm(Hons); Natansh D. Modi, BPharm(Hons); Michael J. Sorich, PhD;  Ashley M. Hopkins, PhD](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2811333)
+
 # Responsible AI Tools
 - [Ecocost: ecocost calculates the carbon emissions, energy use and water use of each AI inference request.](https://github.com/GooeyAI/ecocost)
 - [Frugal AI](https://frugalaicalc.com/)
@@ -59,6 +63,9 @@ These resources can be used to spread awareness about the impact of AI on societ
 # Responsible AI Action
 - [COP31’s Antalya AI Pledge to tackle artificial intelligence’s climate footprint](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx)
 - [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/en/story/2026/11/1168798)
+
+# Institutions Working on AI Safety
+- [AI Security Institute](https://www.aisi.gov.uk/)
   
 # Newsletters
 - [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
