@@ -44,6 +44,9 @@ These resources can be used to spread awareness about the impact of AI on societ
 # AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
 
+# AI Risks
+- [Prioritization of Risks from Artificial Intelligence June 2026 - A Delphi Study of 272 International Experts](https://cdn.prod.website-files.com/669550d38372f33552d2516e/6a172558bd2947234379749f_a8684052fd49a64374c9a9d3e4e5ab59_Prioritizing%20the%20risks%20from%20Artificial%20Intelligence.pdf)
+
 # Responsible AI Tools
 - [Ecocost: ecocost calculates the carbon emissions, energy use and water use of each AI inference request.](https://github.com/GooeyAI/ecocost)
     
