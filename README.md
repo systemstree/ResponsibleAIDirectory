@@ -49,7 +49,10 @@ These resources can be used to spread awareness about the impact of AI on societ
 
 # Responsible AI Tools
 - [Ecocost: ecocost calculates the carbon emissions, energy use and water use of each AI inference request.](https://github.com/GooeyAI/ecocost)
-    
+
+# Responsible AI Action
+- [COP31’s Antalya AI Pledge to tackle artificial intelligence’s climate footprint](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx)
+  
 # Newsletters
 - [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
 - [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
