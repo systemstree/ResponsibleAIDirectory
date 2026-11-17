@@ -27,6 +27,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate by Alexandra Sasha Luccioni, Emma Strubell, Kate Crawford](https://dl.acm.org/doi/full/10.1145/3715275.3732007)
 - [Rebound Effects of AI on Sustainability: Economic and Policy Perspectives by Leonard Onyedikachi Oluka, Loveth Omokaro, Emmanuel Uzochukwu Mordi, Dominica Peace Chinedu](https://www.researchgate.net/publication/400025425_Rebound_Effects_of_AI_on_Sustainability_Economic_and_Policy_Perspectives)
 - [Artificial Slack - On the Efficiency Rebound Effects of Artificial Intelligence in Organizations by Pascal König](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6058995)
+- [The Cost of Dynamic Reasoning: Demystifying AI Agents and Test-Time Scaling from an AI Infrastructure Perspective](https://ieeexplore.ieee.org/document/11408569)
 
 # AI Ethics
 - [AI Ethics: The MIT Press Essential Knowledge series by Mark Coeckelbergh](https://mitpress.mit.edu/9780262538190/ai-ethics/)
