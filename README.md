@@ -43,6 +43,8 @@ These resources can be used to spread awareness about the impact of AI on societ
 # AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
 
+# Responsible AI Tools
+- [Gooey.ai: EcoCost labeling for AI inference](https://gooey.ai/ecocost)
 # Newsletters
 - [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
 - [Ed Zitron's Where's Your Ed At](https://www.wheresyoured.at/)
