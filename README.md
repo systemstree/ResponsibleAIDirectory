@@ -52,6 +52,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 
 # Responsible AI Action
 - [COP31’s Antalya AI Pledge to tackle artificial intelligence’s climate footprint](https://www.itu.int/en/mediacentre/Pages/PR-2026-11-16-COP31-Antalya-AI-Pledge.aspx)
+- [COP31: New initiative targets AI and reliable climate change information](https://news.un.org/en/story/2026/11/1168798)
   
 # Newsletters
 - [Blood in the Machine by Brian Merchant](https://www.bloodinthemachine.com/)
