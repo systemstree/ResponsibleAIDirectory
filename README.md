@@ -42,6 +42,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Adverse impacts of revealing the presence of “Artificial Intelligence (AI)” technology in product and service descriptions on purchase intentions: the mediating role of emotional trust and the moderating role of perceived risk by Mesut Cicek, Dogon Gursoy & Lu Lu](https://www.tandfonline.com/doi/full/10.1080/19368623.2024.2368040)
 - [Recommendation on the Ethics of Artificial Intelligence by UNESCO](https://unesdoc.unesco.org/ark:/48223/pf0000380455)
 - [OECD AI Principles](https://www.oecd.org/en/topics/sub-issues/ai-principles.html)
+- [Ethics and governance of artificial intelligence for health by WHO](https://www.who.int/publications/i/item/9789240029200)
 
 # AI Ethics in Education
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
