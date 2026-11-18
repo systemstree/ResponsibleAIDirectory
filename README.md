@@ -53,6 +53,8 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Artificial Intelligence Safety: A Comprehensive Review of Threats, Governance Frameworks, and Strategic Recommendations for Responsible Deployment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6461918)
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [The Bletchley Declaration](https://bletchleydeclaration.com/)
+- [Ban the Bots: AI's Impact On Jobs, Family, and Environment](https://www.banthebots.org/)
+
 
 # AI Risks Examples
 - [Health Disinformation Use Case Highlighting the Urgent Need for Artificial Intelligence VigilanceWeapons of Mass Disinformation by  Bradley D. Menz, BPharm(Hons); Natansh D. Modi, BPharm(Hons); Michael J. Sorich, PhD;  Ashley M. Hopkins, PhD](https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2811333)
