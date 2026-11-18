@@ -54,6 +54,7 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
 - [The Bletchley Declaration](https://bletchleydeclaration.com/)
 - [Ban the Bots: AI's Impact On Jobs, Family, and Environment](https://www.banthebots.org/)
+- [Artificial Power: 2025 Landscape Report by AI Now Institute](https://ainowinstitute.org/publications/research/ai-now-2025-landscape-report)
 
 
 # AI Risks Examples
