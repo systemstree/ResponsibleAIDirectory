@@ -20,8 +20,8 @@ The responsible AI directory is a an easy-to-use resource that all developers ca
 These resources can be used to spread awareness about the impact of AI on society and environment.
 
 - [Hyperscales observer by Nick Lewis](https://hyperscales.observer/): This open-source project is inspired by, and in some ways an extension of the research carried out as part of the State of the Fossil Fuel Internet report.
-- [State of the Fossil Fuel Internet report 2026 by Green Web Foundation](https://fossilfree.greenweb.org/2026/): This report examines the biggest obstacles to a fossil-free internet. This report focuses on the rise of too many dirty data centres controlled by unaccountable companies. 
-
+- [State of the Fossil Fuel Internet report 2026 by Green Web Foundation](https://fossilfree.greenweb.org/2026/): This report examines the biggest obstacles to a fossil-free internet. This report focuses on the rise of too many dirty data centres controlled by unaccountable companies.
+- [Where AI meets the power system by Ornaq: Independent data, modelling and policy analysis on how Europe powers AI. For policymakers, grid operators, developers and investors.](https://ornaq.ai/)
 
 # Sustainable AI Research Papers
 - [From Efficiency Gains to Rebound Effects: The Problem of Jevons' Paradox in AI's Polarized Environmental Debate by Alexandra Sasha Luccioni, Emma Strubell, Kate Crawford](https://dl.acm.org/doi/full/10.1145/3715275.3732007)
