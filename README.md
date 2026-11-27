@@ -48,6 +48,8 @@ These resources can be used to spread awareness about the impact of AI on societ
 - [Report​ - MIT’s Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training](https://aiandeducation.mit.edu/report/)
 
 # AI Risks
+- [The AI Risk Repository: A meta-review, database, and taxonomy of risks from artificial intelligence by Peter Slattery, Alexander K. Saeri, Emily A. C. Grundy, Jess Graham, Michael Noetel, Risto Uuk, James Dao, Soroush Pour, Stephen Casper, Neil Thompson
+](https://arxiv.org/abs/2408.12622)
 - [Prioritization of Risks from Artificial Intelligence June 2026 - A Delphi Study of 272 International Experts](https://cdn.prod.website-files.com/669550d38372f33552d2516e/6a172558bd2947234379749f_a8684052fd49a64374c9a9d3e4e5ab59_Prioritizing%20the%20risks%20from%20Artificial%20Intelligence.pdf)
 - [EU AI Act](https://artificialintelligenceact.eu/ai-act-explorer/)
 - [Artificial Intelligence Safety: A Comprehensive Review of Threats, Governance Frameworks, and Strategic Recommendations for Responsible Deployment](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6461918)
